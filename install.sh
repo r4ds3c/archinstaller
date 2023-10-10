@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# make sure you have installed a minimal arch
 # Update the system
 sudo pacman -Syu
 
