@@ -16,7 +16,7 @@ sudo systemctl start gdm
 
 # Install a Wayland-compatible desktop environment (optional)
 # Example: Install GNOME
-# sudo pacman -S gnome
+sudo pacman -S gnome
 
 # Reboot to apply changes
 sudo reboot
